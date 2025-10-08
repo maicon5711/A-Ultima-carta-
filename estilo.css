@@ -2,5 +2,12 @@
 body{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-    
+    font-family: "BioRhyme", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img01{
+    width: 110%;
 }
