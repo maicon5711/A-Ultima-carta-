@@ -15,6 +15,7 @@ button{
     background-color: red;
     color: white;
     padding: 20px;
+    font-size: 18px;
 }
 main{
     text-align: center;
