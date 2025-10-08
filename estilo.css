@@ -10,6 +10,12 @@ body{
     margin: 0;
 }
 
+button{
+    background-color: red;
+    color: white;
+    padding: 30px;
+}
+
 .img01{
     width: 80%;
 }
