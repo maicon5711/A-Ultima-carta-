@@ -25,3 +25,9 @@ main{
 .img01{
     width: 75%;
 }
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
