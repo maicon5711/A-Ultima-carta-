@@ -8,5 +8,5 @@ avanca.forEach(button => {
     
         atual.classList.remove('ativo')
         document.getElementById(proximoPasso).classList.add('ativo')
-    })7c    ]778777777888777;99
+    })
 })
